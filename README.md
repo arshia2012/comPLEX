@@ -19,3 +19,6 @@ Script to check if a text or a .txt file is written by human or ChatGPT
 - To scan a text in the terminal use `-t` flag, e.g: `python3 main.py -t "something"`
 - To scan a file in the terminal use `-f` flag, e.g `python3 main.py -f something.txt`
 - If you want to see the full error texts, use `-d` flag 
+
+## Example of result:
+<img width="1123" height="421" alt="Screenshot 2026-09-06 095123" src="https://github.com/user-attachments/assets/a83a7425-1298-41b6-800d-ce361d74e975" />
